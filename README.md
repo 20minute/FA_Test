@@ -1,6 +1,8 @@
 # FA_Test
 For testing purposes, each object currently supports only a single interaction mode. However, the current architecture is fully prepared for easy extension to multiple interaction modes. Logic is cleanly decoupled using Actor Components, and any unused UI widgets are properly destroyed to manage memory.
 
+### Unreal Version 5.5.4
+
 ### How to Play
 
 1. Press `E` to interact (pick up items or trigger dialogue).
